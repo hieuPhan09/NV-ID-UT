@@ -1,0 +1,618 @@
+ID,STATE_NAME,COUNTY,CITY,LATITUDE,LONGITUDE
+5864,Idaho,Bingham,Aberdeen,42.976717,-112.818124
+5865,Idaho,Clearwater,Ahsahka,46.510318,-116.371537
+5866,Idaho,Cassia,Albion,42.412778,-113.577222
+5867,Idaho,Cassia,Almo,42.100278,-113.632778
+5868,Idaho,Power,"American Falls",42.789876,-112.870714
+5869,Idaho,Power,Arbon,42.502634,-112.558481
+5870,Idaho,Butte,Arco,43.635521,-113.317559
+5871,Idaho,Bannock,Arimo,42.559953,-112.174649
+5872,Idaho,Fremont,Ashton,43.988078,-111.619526
+5873,Idaho,Kootenai,Athol,47.92674,-116.731821
+5874,Idaho,Elmore,Atlanta,43.567436,-115.357042
+5875,Idaho,Bingham,"Atomic City",43.445,-112.811944
+5876,Idaho,Shoshone,Avery,47.271431,-115.866012
+5877,Idaho,Caribou,Bancroft,42.720463,-111.842944
+5878,Idaho,Boise,Banks,44.149152,-115.983737
+5879,Idaho,Bingham,Basalt,43.315556,-112.163611
+5880,Idaho,Kootenai,Bayview,47.96535,-116.568745
+5881,Idaho,Blaine,Bellevue,43.439694,-114.249804
+5882,Idaho,"Bear Lake",Bern,42.319144,-111.392595
+5883,Idaho,Bingham,Blackfoot,43.194327,-112.361545
+5884,Idaho,Bonner,Blanchard,48.022344,-116.990865
+5885,Idaho,Gooding,Bliss,42.944859,-114.910387
+5886,Idaho,"Bear Lake",Bloomington,42.191944,-111.400556
+5887,Idaho,,Boise,43.6136,-116.2025
+5888,Idaho,Ada,Boise,43.6154,-116.2161
+5889,Idaho,Boundary,"Bonners Ferry",48.730642,-116.332178
+5890,Idaho,Latah,Bovill,46.858889,-116.3925
+5891,Idaho,Owyhee,Bruneau,42.76006,-115.677259
+5892,Idaho,"Twin Falls",Buhl,42.600763,-114.782545
+5893,Idaho,Cassia,Burley,42.524442,-113.793081
+5894,Idaho,Shoshone,Calder,47.274135,-116.222793
+5895,Idaho,Canyon,Caldwell,43.662719,-116.700038
+5896,Idaho,Washington,Cambridge,44.59216,-116.675717
+5897,Idaho,Blaine,Carey,43.274443,-113.892567
+5898,Idaho,Bonner,Careywood,48.062494,-116.598761
+5899,Idaho,Lemhi,Carmen,45.255016,-113.857267
+5900,Idaho,Valley,Cascade,44.493273,-116.027676
+5901,Idaho,"Twin Falls",Castleford,42.521015,-114.873433
+5902,Idaho,Kootenai,Cataldo,47.552169,-116.443138
+5903,Idaho,Custer,Challis,44.496912,-114.19463
+5904,Idaho,Fremont,Chester,43.999444,-111.569167
+5905,Idaho,Bonner,"Clark Fork",48.140457,-116.169865
+5906,Idaho,Shoshone,Clarkia,47.044477,-116.277408
+5907,Idaho,Custer,Clayton,44.273289,-114.410189
+5908,Idaho,Franklin,Clifton,42.215972,-111.995737
+5909,Idaho,Lemhi,Cobalt,45.004167,-114.333333
+5910,Idaho,Bonner,Cocolalla,48.124828,-116.657051
+5911,Idaho,Kootenai,"Coeur D Alene",47.692841,-116.784976
+5912,Idaho,Bonner,Colburn,48.397222,-116.534167
+5913,Idaho,Caribou,Conda,42.717126,-111.54023
+5914,Idaho,Bonner,Coolin,48.522754,-116.840823
+5915,Idaho,Camas,Corral,43.307127,-115.00871
+5916,Idaho,Idaho,Cottonwood,46.044789,-116.373306
+5917,Idaho,Adams,Council,44.762754,-116.451833
+5918,Idaho,Lewis,Craigmont,46.245292,-116.467655
+5919,Idaho,"Nez Perce",Culdesac,46.378012,-116.653579
+5920,Idaho,Franklin,Dayton,42.11836,-111.985836
+5921,Idaho,Latah,Deary,46.806062,-116.523782
+5922,Idaho,Cassia,Declo,42.524005,-113.644794
+5923,Idaho,Benewah,Desmet,47.125954,-116.893746
+5924,Idaho,Lincoln,Dietrich,42.91254,-114.266408
+5925,Idaho,"Bear Lake",Dingle,42.219444,-111.267222
+5926,Idaho,Valley,Donnelly,44.74937,-116.08578
+5927,Idaho,Bonner,Dover,48.251667,-116.61
+5928,Idaho,Bannock,Downey,42.418127,-112.109019
+5929,Idaho,Teton,Driggs,43.726291,-111.119896
+5930,Idaho,Clark,Dubois,44.185769,-112.325852
+5931,Idaho,Ada,Eagle,43.706879,-116.361966
+5932,Idaho,Boundary,Eastport,48.999444,-116.180278
+5933,Idaho,Jerome,Eden,42.580374,-114.162762
+5934,Idaho,Idaho,"Elk City",45.888897,-115.359158
+5935,Idaho,Clearwater,"Elk River",46.782972,-116.179943
+5936,Idaho,Custer,Ellis,44.878829,-114.001594
+5937,Idaho,Gem,Emmett,43.879152,-116.511459
+5938,Idaho,Camas,Fairfield,43.367504,-114.790845
+5939,Idaho,Teton,Felt,43.872407,-111.189496
+5940,Idaho,Idaho,Fenn,45.926667,-116.121389
+5941,Idaho,Idaho,Ferdinand,46.134877,-116.39817
+5942,Idaho,Benewah,Fernwood,47.116027,-116.383126
+5943,Idaho,"Twin Falls",Filer,42.565269,-114.614047
+5944,Idaho,Bingham,Firth,43.302066,-112.158819
+5945,Idaho,"Bear Lake","Fish Haven",42.045926,-111.463323
+5946,Idaho,Bingham,"Fort Hall",42.988717,-112.459854
+5947,Idaho,Franklin,Franklin,42.030389,-111.822862
+5948,Idaho,Payette,Fruitland,44.002658,-116.914259
+5949,Idaho,Ada,"Garden City",43.643036,-116.265751
+5950,Idaho,Boise,"Garden Valley",44.090932,-115.824311
+5951,Idaho,Latah,Genesee,46.571394,-116.928991
+5952,Idaho,"Bear Lake",Geneva,42.313585,-111.072185
+5953,Idaho,"Bear Lake",Georgetown,42.473333,-111.396944
+5954,Idaho,Lemhi,Gibbonsville,45.484608,-113.956466
+5955,Idaho,Elmore,"Glenns Ferry",42.962202,-115.315973
+5956,Idaho,Gooding,Gooding,42.937345,-114.711966
+5957,Idaho,Caribou,Grace,42.549978,-111.739981
+5958,Idaho,Owyhee,"Grand View",42.810101,-116.08187
+5959,Idaho,Idaho,Grangeville,45.927239,-116.107639
+5960,Idaho,Idaho,Greencreek,46.115523,-116.27239
+5961,Idaho,Canyon,Greenleaf,43.671389,-116.815278
+5962,Idaho,Gooding,Hagerman,42.814205,-114.88697
+5963,Idaho,Blaine,Hailey,43.523861,-114.306398
+5964,Idaho,Jefferson,Hamer,43.930751,-112.187189
+5965,Idaho,Elmore,Hammett,42.981755,-115.565839
+5966,Idaho,"Twin Falls",Hansen,42.524895,-114.299364
+5967,Idaho,Kootenai,Harrison,47.501692,-116.744607
+5968,Idaho,Latah,Harvard,46.937647,-116.702524
+5969,Idaho,Kootenai,Hayden,47.773853,-116.776821
+5970,Idaho,Jerome,Hazelton,42.595462,-114.134984
+5971,Idaho,Minidoka,Heyburn,42.559922,-113.770885
+5972,Idaho,Camas,"Hill City",43.300556,-115.050278
+5973,Idaho,Oneida,Holbrook,42.222148,-112.693404
+5974,Idaho,Owyhee,Homedale,43.613844,-116.947228
+5975,Idaho,Bonner,Hope,48.244402,-116.279504
+5976,Idaho,Boise,"Horseshoe Bend",43.922882,-116.180898
+5977,Idaho,Butte,Howe,43.783611,-113.003889
+5978,Idaho,Canyon,Huston,43.610278,-116.782222
+5979,Idaho,Boise,"Idaho City",43.758601,-115.918436
+5980,Idaho,Bonneville,"Idaho Falls",43.517679,-111.990626
+5981,Idaho,Adams,"Indian Valley",44.549134,-116.442969
+5982,Idaho,Bannock,Inkom,42.796379,-112.246474
+5983,Idaho,Bonneville,Iona,43.525946,-111.928356
+5984,Idaho,Bonneville,Irwin,43.408611,-111.298611
+5985,Idaho,Fremont,"Island Park",44.446606,-111.367914
+5986,Idaho,Jerome,Jerome,42.71784,-114.501244
+5987,Idaho,Latah,Juliaetta,46.575376,-116.718849
+5988,Idaho,Lewis,Kamiah,46.21856,-116.034742
+5989,Idaho,Shoshone,Kellogg,47.543069,-116.125281
+5990,Idaho,Latah,Kendrick,46.628628,-116.604895
+5991,Idaho,Blaine,Ketchum,43.675459,-114.373664
+5992,Idaho,"Twin Falls",Kimberly,42.528656,-114.365725
+5993,Idaho,Elmore,"King Hill",42.936104,-115.269098
+5994,Idaho,Shoshone,Kingston,47.550881,-116.288722
+5995,Idaho,Idaho,Kooskia,46.125859,-115.92396
+5996,Idaho,Bonner,Kootenai,48.310278,-116.5125
+5997,Idaho,Ada,Kuna,43.487034,-116.381859
+5998,Idaho,Bonner,Laclede,48.170278,-116.755
+5999,Idaho,Valley,"Lake Fork",44.891667,-116.078611
+6000,Idaho,"Nez Perce",Lapwai,46.412403,-116.790225
+6001,Idaho,Bannock,"Lava Hot Springs",42.618474,-112.017644
+6002,Idaho,Lemhi,Leadore,44.738909,-113.492586
+6003,Idaho,Lemhi,Lemhi,44.851667,-113.618889
+6004,Idaho,Clearwater,Lenore,46.535408,-116.513015
+6005,Idaho,Gem,Letha,43.840306,-116.585004
+6006,Idaho,"Nez Perce",Lewiston,46.389457,-116.987714
+6007,Idaho,Jefferson,Lewisville,43.672476,-112.018884
+6008,Idaho,Boise,Lowman,44.110616,-115.528488
+6009,Idaho,Idaho,Lucile,45.556963,-116.266899
+6010,Idaho,Custer,Mackay,43.91106,-113.611984
+6011,Idaho,Fremont,"Macks Inn",44.424444,-111.370278
+6012,Idaho,Oneida,"Malad City",42.180783,-112.262045
+6013,Idaho,Cassia,Malta,42.364652,-113.448656
+6014,Idaho,Owyhee,Marsing,43.539866,-116.823968
+6015,Idaho,Lemhi,May,44.701745,-113.916039
+6016,Idaho,Valley,Mccall,44.891784,-116.078873
+6017,Idaho,Bannock,Mccammon,42.63362,-112.175758
+6018,Idaho,Kootenai,Medimont,47.462482,-116.568291
+6019,Idaho,Canyon,Melba,43.37842,-116.548875
+6020,Idaho,Jefferson,Menan,43.726576,-111.983702
+6021,Idaho,Ada,Meridian,43.614963,-116.397538
+6022,Idaho,Adams,Mesa,44.657747,-116.42113
+6023,Idaho,Canyon,Middleton,43.719052,-116.61122
+6024,Idaho,Washington,Midvale,44.441979,-116.703838
+6025,Idaho,Minidoka,Minidoka,42.759784,-113.620033
+6026,Idaho,Jefferson,Monteview,43.986242,-112.578321
+6027,Idaho,"Bear Lake",Montpelier,42.35199,-111.31946
+6028,Idaho,Butte,Moore,43.782094,-113.260349
+6029,Idaho,Bingham,Moreland,43.222778,-112.441667
+6030,Idaho,Latah,Moscow,46.730921,-116.989683
+6031,Idaho,Elmore,"Mountain Home",43.139223,-115.696334
+6032,Idaho,Elmore,"Mountain Home A F B",43.049315,-115.873609
+6033,Idaho,Boundary,"Moyie Springs",48.746434,-116.179603
+6034,Idaho,Shoshone,Mullan,47.470906,-115.792603
+6035,Idaho,Owyhee,Murphy,43.207296,-116.605379
+6036,Idaho,Shoshone,Murray,47.627222,-115.8575
+6037,Idaho,"Twin Falls",Murtaugh,42.477597,-114.160641
+6038,Idaho,Canyon,Nampa,43.58342,-116.584818
+6039,Idaho,Boundary,Naples,48.60491,-116.319636
+6040,Idaho,Adams,"New Meadows",44.993969,-116.287438
+6041,Idaho,Payette,"New Plymouth",43.959021,-116.804818
+6042,Idaho,Fremont,Newdale,43.888078,-111.604192
+6043,Idaho,Lewis,Nezperce,46.247533,-116.239281
+6044,Idaho,Bonner,Nordman,48.566944,-116.92126
+6045,Idaho,Lemhi,"North Fork",45.377605,-113.857287
+6046,Idaho,Canyon,Notus,43.725556,-116.800278
+6047,Idaho,Cassia,Oakley,42.347561,-113.906945
+6048,Idaho,Gem,Ola,44.235026,-116.290915
+6049,Idaho,Bonner,Oldtown,48.187988,-116.927382
+6050,Idaho,Clearwater,Orofino,46.495197,-116.240417
+6051,Idaho,Shoshone,Osburn,47.506111,-115.998333
+6052,Idaho,"Bear Lake",Paris,42.207065,-111.402938
+6053,Idaho,Fremont,Parker,43.959444,-111.756944
+6054,Idaho,Canyon,Parma,43.789576,-116.940066
+6055,Idaho,Minidoka,Paul,42.623999,-113.797125
+6056,Idaho,Payette,Payette,44.07818,-116.920277
+6057,Idaho,"Nez Perce",Peck,46.480661,-116.411394
+6058,Idaho,Blaine,Picabo,43.310149,-114.086065
+6059,Idaho,Clearwater,Pierce,46.492424,-115.807071
+6060,Idaho,Shoshone,Pinehurst,47.501823,-116.264679
+6061,Idaho,Bingham,Pingree,43.195618,-112.449035
+6062,Idaho,Boise,Placerville,43.943333,-115.946111
+6063,Idaho,Benewah,Plummer,47.327782,-116.866161
+6064,Idaho,Bannock,Pocatello,42.887592,-112.438142
+6065,Idaho,Idaho,Pollock,45.306754,-116.351742
+6066,Idaho,Bonner,Ponderay,48.305556,-116.532778
+6067,Idaho,Boundary,Porthill,48.992037,-116.477517
+6068,Idaho,Kootenai,"Post Falls",47.720475,-116.935349
+6069,Idaho,Latah,Potlatch,46.944833,-116.914101
+6070,Idaho,Franklin,Preston,42.110917,-111.856516
+6071,Idaho,Bonner,"Priest River",48.16637,-116.906617
+6072,Idaho,Latah,Princeton,46.899556,-116.828728
+6073,Idaho,Kootenai,Rathdrum,47.824107,-116.887294
+6074,Idaho,Lewis,Reubens,46.336112,-116.533334
+6075,Idaho,Madison,Rexburg,43.809968,-111.789022
+6076,Idaho,Lincoln,Richfield,43.058839,-114.15079
+6077,Idaho,Jefferson,Rigby,43.671462,-111.900481
+6078,Idaho,Idaho,Riggins,45.397006,-116.300553
+6079,Idaho,Jefferson,Ririe,43.631961,-111.760692
+6080,Idaho,Jefferson,Roberts,43.7116,-112.119591
+6081,Idaho,Power,Rockland,42.555582,-112.853982
+6082,Idaho,"Twin Falls",Rogerson,42.219567,-114.603794
+6083,Idaho,Minidoka,Rupert,42.621467,-113.66699
+6084,Idaho,Bonner,Sagle,48.2035,-116.5455
+6085,Idaho,Fremont,"Saint Anthony",44.274499,-111.523156
+6086,Idaho,"Bear Lake","Saint Charles",42.112812,-111.389744
+6087,Idaho,Benewah,"Saint Maries",47.297727,-116.568107
+6088,Idaho,Lemhi,Salmon,45.157142,-113.878356
+6089,Idaho,Bonner,Sandpoint,48.311989,-116.533249
+6090,Idaho,Benewah,Santa,47.150278,-116.448056
+6091,Idaho,Bingham,Shelley,43.376901,-112.107549
+6092,Idaho,Lincoln,Shoshone,42.947353,-114.382176
+6093,Idaho,Lemhi,Shoup,45.18514,-114.405987
+6094,Idaho,Shoshone,Silverton,47.493056,-115.954444
+6095,Idaho,Shoshone,Smelterville,47.537096,-116.240113
+6096,Idaho,Caribou,"Soda Springs",42.671819,-111.569896
+6097,Idaho,Clark,Spencer,44.281444,-112.098821
+6098,Idaho,Kootenai,"Spirit Lake",47.965652,-116.868046
+6099,Idaho,Bingham,Springfield,43.081667,-112.681111
+6100,Idaho,Custer,Stanley,44.22908,-114.725414
+6101,Idaho,Ada,Star,43.701296,-116.496735
+6102,Idaho,Idaho,Stites,46.091667,-115.975278
+6103,Idaho,Madison,"Sugar City",43.866852,-111.79004
+6104,Idaho,Blaine,"Sun Valley",43.6955,-114.3557
+6105,Idaho,Bonneville,"Swan Valley",43.405826,-111.279358
+6106,Idaho,Bannock,Swanlake,42.307778,-111.998056
+6107,Idaho,Gem,Sweet,43.99475,-116.323215
+6108,Idaho,Lemhi,Tendoy,44.959444,-113.643889
+6109,Idaho,Benewah,Tensed,47.170735,-116.902716
+6110,Idaho,Jefferson,Terreton,43.858635,-112.420041
+6111,Idaho,Fremont,Teton,43.898751,-111.668145
+6112,Idaho,Teton,Tetonia,43.843713,-111.186997
+6113,Idaho,Franklin,Thatcher,42.331959,-111.78899
+6114,Idaho,Latah,Troy,46.742648,-116.768105
+6115,Idaho,"Twin Falls","Twin Falls",42.556495,-114.469265
+6116,Idaho,Bonneville,Ucon,43.596389,-111.963056
+6117,Idaho,Teton,Victor,43.614827,-111.125934
+6118,Idaho,Latah,Viola,46.858293,-116.97319
+6119,Idaho,Shoshone,Wallace,47.490842,-115.962001
+6120,Idaho,Idaho,Warren,45.264167,-115.675556
+6121,Idaho,Caribou,Wayan,43.02691,-111.254056
+6122,Idaho,Clearwater,Weippe,46.38069,-115.938593
+6123,Idaho,Washington,Weiser,44.25222,-116.96507
+6124,Idaho,Gooding,Wendell,42.757868,-114.715391
+6125,Idaho,Franklin,Weston,42.044621,-111.97154
+6126,Idaho,Idaho,"White Bird",45.752096,-116.2889
+6127,Idaho,Canyon,Wilder,43.657851,-116.912199
+6128,Idaho,Lewis,Winchester,46.238334,-116.620382
+6129,Idaho,Kootenai,Worley,47.429213,-116.905634
+6130,Idaho,Valley,"Yellow Pine",44.969809,-115.49634
+17789,Nevada,Lincoln,Alamo,37.325866,-115.308032
+17790,Nevada,Nye,"Amargosa Valley",36.944007,-116.57755
+17791,Nevada,Lander,Austin,39.507986,-117.081063
+17792,Nevada,"White Pine",Baker,39.065996,-114.246165
+17793,Nevada,Lander,"Battle Mountain",40.621985,-116.955439
+17794,Nevada,Nye,Beatty,36.908611,-116.758333
+17795,Nevada,Clark,"Blue Diamond",36.046389,-115.403056
+17796,Nevada,Clark,"Boulder City",35.972711,-114.834413
+17797,Nevada,Clark,Bunkerville,36.773056,-114.127222
+17798,Nevada,Clark,"Cal Nev Ari",35.465278,-114.918889
+17799,Nevada,Lincoln,Caliente,37.612817,-114.509727
+17800,Nevada,Elko,Carlin,40.717216,-116.108208
+17801,Nevada,"Carson City","Carson City",39.150746,-119.745904
+17802,Nevada,Douglas,"Carson City",39.089147,-119.782899
+17803,Nevada,Eureka,"Crescent Valley",40.462398,-116.477387
+17804,Nevada,Washoe,"Crystal Bay",39.226111,-120.003056
+17805,Nevada,Lyon,Dayton,39.280594,-119.52872
+17806,Nevada,Elko,Deeth,41.431033,-115.371729
+17807,Nevada,Humboldt,Denio,41.704263,-118.731962
+17808,Nevada,"White Pine",Duckwater,38.814167,-116.1375
+17809,Nevada,Esmeralda,Dyer,37.613056,-118.021111
+17810,Nevada,Elko,Elko,40.826247,-115.724679
+17811,Nevada,"White Pine",Ely,39.309356,-114.878011
+17812,Nevada,Washoe,Empire,40.357703,-119.655265
+17813,Nevada,Eureka,Eureka,39.589661,-115.994308
+17814,Nevada,Churchill,Fallon,39.470254,-118.786112
+17815,Nevada,Lyon,Fernley,39.601888,-119.235044
+17816,Nevada,Nye,Gabbs,38.880226,-117.868556
+17817,Nevada,Douglas,Gardnerville,38.898268,-119.726902
+17818,Nevada,Douglas,Genoa,39.004444,-119.846111
+17819,Nevada,Washoe,Gerlach,40.674645,-119.377441
+17820,Nevada,Douglas,Glenbrook,38.993752,-119.927776
+17821,Nevada,Humboldt,Golconda,40.968325,-117.334929
+17822,Nevada,Esmeralda,Goldfield,37.834364,-117.269379
+17823,Nevada,Elko,Halleck,40.950833,-115.451944
+17824,Nevada,Mineral,Hawthorne,38.534658,-118.641143
+17825,Nevada,Clark,Henderson,35.992678,-114.951684
+17826,Nevada,Lincoln,Hiko,37.651695,-115.177158
+17827,Nevada,Pershing,Imlay,40.652217,-118.02115
+17828,Nevada,Washoe,"Incline Village",39.246,-119.9618
+17829,Nevada,Clark,"Indian Springs",36.407223,-115.581067
+17830,Nevada,Elko,Jackpot,41.839591,-115.112886
+17831,Nevada,Elko,Jarbidge,41.873611,-115.431111
+17832,Nevada,Clark,Jean,35.854839,-115.469154
+17833,Nevada,Elko,Lamoille,40.728056,-115.4775
+17834,Nevada,Clark,"Las Vegas",36.172082,-115.122366
+17835,Nevada,Clark,Laughlin,35.167778,-114.572222
+17836,Nevada,Clark,Logandale,36.596667,-114.483333
+17837,Nevada,Pershing,Lovelock,40.1819,-118.468915
+17838,Nevada,"White Pine",Lund,38.904633,-115.044026
+17839,Nevada,Mineral,Luning,38.406072,-118.157114
+17840,Nevada,Nye,Manhattan,38.538889,-117.0725
+17841,Nevada,Humboldt,"Mc Dermitt",41.866944,-117.531111
+17842,Nevada,"White Pine","Mc Gill",39.401389,-114.778056
+17843,Nevada,Nye,Mercury,36.660556,-115.993611
+17844,Nevada,Clark,Mesquite,36.8055,-114.0663
+17845,Nevada,Mineral,Mina,38.390556,-118.107778
+17846,Nevada,Douglas,Minden,39.021766,-119.731363
+17847,Nevada,Clark,Moapa,36.675833,-114.62
+17848,Nevada,Elko,Montello,41.261389,-114.193333
+17849,Nevada,Elko,"Mountain City",41.870781,-116.113801
+17850,Nevada,Clark,"Nellis Afb",36.2438,-115.0132
+17851,Nevada,Washoe,Nixon,39.885388,-119.464262
+17852,Nevada,Clark,"North Las Vegas",36.4475,-114.851389
+17853,Nevada,Humboldt,Orovada,41.822001,-117.775458
+17854,Nevada,Clark,Overton,36.637236,-114.378202
+17855,Nevada,Elko,Owyhee,41.947778,-116.097778
+17856,Nevada,Nye,Pahrump,36.204039,-116.014661
+17857,Nevada,Lincoln,Panaca,37.790556,-114.388611
+17858,Nevada,Humboldt,"Paradise Valley",41.505726,-117.572848
+17859,Nevada,Lincoln,Pioche,37.898097,-114.396824
+17860,Nevada,Washoe,Reno,39.526812,-119.811275
+17861,Nevada,Nye,"Round Mountain",38.682886,-117.127989
+17862,Nevada,Elko,"Ruby Valley",40.399514,-115.231219
+17863,Nevada,"White Pine",Ruth,39.278333,-114.988333
+17864,Nevada,Mineral,Schurz,38.957527,-118.775578
+17865,Nevada,Clark,Searchlight,35.447601,-114.924182
+17866,Nevada,Lyon,"Silver City",39.263611,-119.639444
+17867,Nevada,Lyon,"Silver Springs",39.380045,-119.270503
+17868,Nevada,Esmeralda,Silverpeak,37.76444,-117.94592
+17869,Nevada,Clark,Sloan,35.9435864,-115.2172168
+17870,Nevada,Lyon,Smith,38.917166,-119.389005
+17871,Nevada,Washoe,Sparks,39.547254,-119.755588
+17872,Nevada,Elko,"Spring Creek",40.507778,-115.344167
+17873,Nevada,Douglas,Stateline,38.9625,-119.938889
+17874,Nevada,Washoe,"Sun Valley",39.595477,-119.775363
+17875,Nevada,Clark,"The Lakes",36.175,-115.1363
+17876,Nevada,Nye,Tonopah,38.204273,-117.089886
+17877,Nevada,Elko,Tuscarora,41.171527,-116.931141
+17878,Nevada,Humboldt,Valmy,40.792778,-117.125833
+17879,Nevada,Washoe,Verdi,39.518333,-119.987778
+17880,Nevada,Storey,"Virginia City",39.387282,-119.596063
+17881,Nevada,Washoe,Wadsworth,39.648069,-119.291778
+17882,Nevada,Washoe,"Washoe Valley",39.089756,-119.828624
+17883,Nevada,Lyon,Wellington,38.78762,-119.344901
+17884,Nevada,Elko,Wells,41.129798,-114.532752
+17885,Nevada,Elko,"West Wendover",40.735,-114.075278
+17886,Nevada,Humboldt,Winnemucca,40.966418,-117.746693
+17887,Nevada,Lyon,Yerington,38.986567,-119.159558
+17888,Nevada,Douglas,"Zephyr Cove",39.002222,-119.955
+26304,Utah,Utah,Alpine,40.461591,-111.768861
+26305,Utah,Duchesne,Altamont,40.370225,-110.446356
+26306,Utah,Kane,Alton,37.469905,-112.548389
+26307,Utah,Duchesne,Altonah,40.441894,-110.438499
+26308,Utah,Utah,"American Fork",40.392784,-111.794107
+26309,Utah,"San Juan",Aneth,37.214671,-109.298281
+26310,Utah,Sevier,Annabella,38.709167,-112.059167
+26311,Utah,Garfield,Antimony,38.1015,-111.993029
+26312,Utah,Sevier,Aurora,38.922222,-111.933333
+26313,Utah,Sanpete,Axtell,39.053248,-111.824303
+26314,Utah,"Box Elder","Bear River City",41.614722,-112.125833
+26315,Utah,Beaver,Beaver,38.28071,-112.629916
+26316,Utah,Iron,Beryl,37.96005,-113.619586
+26317,Utah,Wayne,Bicknell,38.340833,-111.543333
+26318,Utah,"Salt Lake","Bingham Canyon",40.564614,-112.097718
+26319,Utah,"San Juan",Blanding,37.586342,-109.486599
+26320,Utah,Duchesne,Bluebell,40.351728,-110.294122
+26321,Utah,"San Juan",Bluff,37.284444,-109.551111
+26322,Utah,Uintah,Bonanza,40.021111,-109.176667
+26323,Utah,Garfield,Boulder,37.916606,-111.426646
+26324,Utah,Davis,Bountiful,40.877513,-111.872658
+26325,Utah,Iron,"Brian Head",37.698465,-112.843698
+26326,Utah,"Box Elder","Brigham City",41.507921,-112.015177
+26327,Utah,Garfield,Bryce,37.57,-112.295
+26328,Utah,Cache,"Cache Junction",41.835556,-112.001944
+26329,Utah,Garfield,Cannonville,37.566944,-112.053056
+26330,Utah,Emery,"Castle Dale",39.212222,-111.018889
+26331,Utah,Iron,"Cedar City",37.689544,-113.074513
+26332,Utah,Utah,"Cedar Valley",40.142516,-111.968985
+26333,Utah,Sanpete,Centerfield,39.125083,-111.818516
+26334,Utah,Davis,Centerville,40.926772,-111.87701
+26335,Utah,Washington,Central,37.567734,-113.717199
+26336,Utah,Sanpete,Chester,39.465278,-111.571667
+26337,Utah,Piute,Circleville,38.171667,-112.269722
+26338,Utah,Grand,Cisco,38.97,-109.32
+26339,Utah,Cache,Clarkston,41.91877,-112.04859
+26340,Utah,Emery,Clawson,39.133056,-111.096389
+26341,Utah,Davis,Clearfield,41.129388,-112.048224
+26342,Utah,Emery,Cleveland,39.348889,-110.850833
+26343,Utah,Summit,Coalville,40.924385,-111.407108
+26344,Utah,"Box Elder",Collinston,41.78777,-112.124219
+26345,Utah,"Box Elder",Corinne,41.544986,-112.151388
+26346,Utah,Cache,Cornish,41.970178,-111.954241
+26347,Utah,Morgan,Croydon,41.068915,-111.523092
+26348,Utah,Washington,"Dammeron Valley",37.284899,-113.658553
+26349,Utah,Millard,Delta,39.375534,-112.531892
+26350,Utah,"Box Elder",Deweyville,41.697226,-112.094717
+26351,Utah,"Salt Lake",Draper,40.504599,-111.88096
+26352,Utah,Duchesne,Duchesne,39.95398,-110.618094
+26353,Utah,Kane,"Duck Creek Village",37.523611,-112.662222
+26354,Utah,Tooele,Dugway,40.526892,-112.872905
+26355,Utah,Daggett,"Dutch John",40.932244,-109.354255
+26356,Utah,Utah,"Eagle Mountain",40.3472,-111.9888
+26357,Utah,Carbon,"East Carbon",39.546088,-110.411308
+26358,Utah,Summit,Echo,40.977778,-111.4425
+26359,Utah,Weber,Eden,41.330279,-111.855765
+26360,Utah,Utah,Elberta,39.952778,-111.955556
+26361,Utah,Emery,Elmo,39.389722,-110.814444
+26362,Utah,Sevier,Elsinore,38.682778,-112.1475
+26363,Utah,Emery,Emery,38.923056,-111.248056
+26364,Utah,Washington,Enterprise,37.573611,-113.718333
+26365,Utah,Sanpete,Ephraim,39.359983,-111.582301
+26366,Utah,Garfield,Escalante,37.769839,-111.603695
+26367,Utah,Juab,Eureka,39.954094,-112.117448
+26368,Utah,Sanpete,Fairview,39.645318,-111.495287
+26369,Utah,Davis,Farmington,40.988913,-111.893785
+26370,Utah,Sanpete,Fayette,39.231533,-111.849712
+26371,Utah,Emery,Ferron,39.069196,-111.146698
+26372,Utah,"Box Elder",Fielding,41.811817,-112.118978
+26373,Utah,Millard,Fillmore,38.980539,-112.331321
+26374,Utah,Uintah,"Fort Duchesne",40.301411,-109.863726
+26375,Utah,Sanpete,"Fountain Green",39.63,-111.634444
+26376,Utah,Duchesne,Fruitland,40.212778,-110.838889
+26377,Utah,Rich,"Garden City",41.93764,-111.407033
+26378,Utah,"Box Elder",Garland,41.741319,-112.151635
+26379,Utah,Millard,Garrison,39.074382,-113.894858
+26380,Utah,Kane,Glendale,37.321897,-112.603491
+26381,Utah,Sevier,Glenwood,38.763333,-111.989444
+26382,Utah,Utah,Goshen,39.953056,-111.9
+26383,Utah,Tooele,Grantsville,40.60054,-112.461766
+26384,Utah,Emery,"Green River",39.000243,-110.159817
+26385,Utah,Beaver,Greenville,38.263582,-112.708404
+26386,Utah,Piute,Greenwich,38.431111,-111.922222
+26387,Utah,"Box Elder","Grouse Creek",41.629727,-113.854043
+26388,Utah,Washington,Gunlock,37.286111,-113.7625
+26389,Utah,Sanpete,Gunnison,39.154464,-111.816701
+26390,Utah,Wayne,Hanksville,38.252051,-110.813744
+26391,Utah,Duchesne,Hanna,40.450135,-110.809748
+26392,Utah,Garfield,Hatch,37.649722,-112.433611
+26393,Utah,Wasatch,"Heber City",40.494703,-111.405088
+26394,Utah,Carbon,Helper,39.673684,-110.856
+26395,Utah,Summit,Henefer,41.016667,-111.4975
+26396,Utah,Garfield,Henrieville,37.562778,-111.993611
+26397,Utah,"Salt Lake",Herriman,40.5032,-112.034
+26398,Utah,Washington,Hildale,37.003611,-112.966111
+26399,Utah,Davis,"Hill Afb",41.116962,-111.995565
+26400,Utah,Millard,Hinckley,39.330842,-112.671577
+26401,Utah,Millard,Holden,39.098889,-112.27
+26402,Utah,"Box Elder",Honeyville,41.623754,-112.097425
+26403,Utah,Weber,Hooper,41.18267,-112.090371
+26404,Utah,"Box Elder",Howell,41.796111,-112.443611
+26405,Utah,Emery,Huntington,39.29202,-110.974094
+26406,Utah,Weber,Huntsville,41.272139,-111.761821
+26407,Utah,Washington,Hurricane,37.169098,-113.224706
+26408,Utah,Cache,"Hyde Park",41.798889,-111.818333
+26409,Utah,Cache,Hyrum,41.631096,-111.849
+26410,Utah,Tooele,Ibapah,40.036667,-113.984444
+26411,Utah,Washington,Ivins,37.168611,-113.678611
+26412,Utah,Uintah,Jensen,40.378715,-109.350982
+26413,Utah,Sevier,Joseph,38.622092,-112.225119
+26414,Utah,Piute,Junction,38.2375,-112.219167
+26415,Utah,Summit,Kamas,40.641432,-111.261877
+26416,Utah,Kane,Kanab,37.072085,-112.345374
+26417,Utah,Iron,Kanarraville,37.538889,-113.183333
+26418,Utah,Millard,Kanosh,38.801389,-112.436667
+26419,Utah,Davis,Kaysville,41.037527,-111.932607
+26420,Utah,Carbon,Kenilworth,39.688333,-110.805
+26421,Utah,Piute,Kingston,38.215772,-112.204864
+26422,Utah,Sevier,Koosharem,38.510278,-111.880556
+26423,Utah,"San Juan","La Sal",38.312222,-109.2475
+26424,Utah,Washington,"La Verkin",37.201111,-113.268889
+26425,Utah,"San Juan","Lake Powell",37.459898,-110.506917
+26426,Utah,Rich,Laketown,41.81068,-111.268853
+26427,Utah,Uintah,Lapoint,40.400285,-109.804102
+26428,Utah,Davis,Layton,41.084576,-111.927365
+26429,Utah,Millard,Leamington,39.534722,-112.282778
+26430,Utah,Washington,Leeds,37.238611,-113.358333
+26431,Utah,Utah,Lehi,40.395845,-111.850606
+26432,Utah,Juab,Levan,39.558611,-111.861111
+26433,Utah,Cache,Lewiston,41.970087,-111.876814
+26434,Utah,Utah,Lindon,40.34119,-111.714358
+26435,Utah,Wayne,Loa,38.417266,-111.629233
+26436,Utah,Cache,Logan,41.747025,-111.822613
+26437,Utah,Wayne,Lyman,38.396944,-111.588889
+26438,Utah,Millard,Lynndyl,39.519167,-112.375
+26439,Utah,"Salt Lake",Magna,40.700879,-112.080867
+26440,Utah,Daggett,Manila,40.968494,-109.723503
+26441,Utah,Sanpete,Manti,39.235389,-111.651372
+26442,Utah,"Box Elder",Mantua,41.497496,-111.941646
+26443,Utah,Utah,Mapleton,40.133711,-111.580122
+26444,Utah,Piute,Marysvale,38.444924,-112.251848
+26445,Utah,Sanpete,Mayfield,39.114167,-111.71
+26446,Utah,Millard,Meadow,38.885833,-112.409722
+26447,Utah,Cache,Mendon,41.709989,-111.981692
+26448,Utah,"San Juan","Mexican Hat",37.118429,-109.991865
+26449,Utah,"Salt Lake",Midvale,40.615178,-111.885066
+26450,Utah,Wasatch,Midway,40.50934,-111.477575
+26451,Utah,Beaver,Milford,38.331071,-112.993377
+26452,Utah,Cache,Millville,41.681667,-111.822222
+26453,Utah,Beaver,Minersville,38.214167,-112.922778
+26454,Utah,Grand,Moab,38.567674,-109.527087
+26455,Utah,Iron,Modena,37.799452,-113.919282
+26456,Utah,Juab,Mona,39.838165,-111.848001
+26457,Utah,Sevier,Monroe,38.645305,-112.132434
+26458,Utah,"San Juan","Montezuma Creek",37.272778,-109.337222
+26459,Utah,"San Juan",Monticello,37.921709,-109.315289
+26460,Utah,"San Juan","Monument Valley",37.061425,-110.427335
+26461,Utah,Morgan,Morgan,41.067832,-111.716339
+26462,Utah,Sanpete,Moroni,39.525,-111.589722
+26463,Utah,Kane,"Mount Carmel",37.237821,-112.670034
+26464,Utah,Sanpete,"Mount Pleasant",39.523227,-111.503854
+26465,Utah,Duchesne,"Mountain Home",40.191999,-110.767018
+26466,Utah,Duchesne,Myton,40.194049,-110.048056
+26467,Utah,Duchesne,Neola,40.449149,-110.037221
+26468,Utah,Juab,Nephi,39.692275,-111.8359
+26469,Utah,Washington,"New Harmony",37.479444,-113.308889
+26470,Utah,Iron,Newcastle,37.736049,-113.661479
+26471,Utah,Cache,Newton,41.862778,-111.99
+26472,Utah,Davis,"North Salt Lake",40.844064,-111.904116
+26473,Utah,Millard,"Oak City",39.375,-112.334722
+26474,Utah,Summit,Oakley,40.714722,-111.3
+26475,Utah,Weber,Ogden,41.2443,-112.0072
+26476,Utah,Emery,Orangeville,39.227222,-111.052778
+26477,Utah,Kane,Orderville,37.274419,-112.642045
+26478,Utah,Utah,Orem,40.313407,-111.695293
+26479,Utah,Garfield,Panguitch,37.80777,-112.436886
+26480,Utah,Cache,Paradise,41.560009,-111.829665
+26481,Utah,Iron,Paragonah,37.89172,-112.773972
+26482,Utah,Summit,"Park City",40.695724,-111.528021
+26483,Utah,"Box Elder","Park Valley",41.855125,-113.34776
+26484,Utah,Iron,Parowan,37.844861,-112.832251
+26485,Utah,Utah,Payson,40.044866,-111.732138
+26486,Utah,Summit,Peoa,40.720937,-111.302467
+26487,Utah,Washington,"Pine Valley",37.389772,-113.517708
+26488,Utah,Utah,"Pleasant Grove",40.371986,-111.733284
+26489,Utah,"Box Elder",Plymouth,41.875556,-112.143333
+26490,Utah,"Box Elder",Portage,41.975833,-112.238611
+26491,Utah,Carbon,Price,39.602013,-110.808117
+26492,Utah,Cache,Providence,41.69522,-111.824389
+26493,Utah,Utah,Provo,40.231949,-111.675504
+26494,Utah,Uintah,Randlett,40.21865,-109.730102
+26495,Utah,Rich,Randolph,41.656328,-111.185578
+26496,Utah,Sevier,Redmond,39.006111,-111.861111
+26497,Utah,Sevier,Richfield,38.757075,-112.062253
+26498,Utah,Cache,Richmond,41.928223,-111.806922
+26499,Utah,"Box Elder",Riverside,41.788889,-112.148056
+26500,Utah,"Salt Lake",Riverton,40.53789,-111.954661
+26501,Utah,Washington,Rockville,37.161111,-113.0375
+26502,Utah,Duchesne,Roosevelt,40.310229,-110.010782
+26503,Utah,Weber,Roy,41.172365,-112.038177
+26504,Utah,Tooele,"Rush Valley",40.233625,-112.744033
+26505,Utah,Washington,"Saint George",37.106651,-113.595261
+26506,Utah,Utah,Salem,40.042702,-111.65906
+26507,Utah,Sevier,Salina,38.956028,-111.881072
+26508,Utah,"Salt Lake","Salt Lake City",40.755851,-111.896657
+26509,Utah,"Salt Lake",Sandy,40.579379,-111.881625
+26510,Utah,Washington,"Santa Clara",37.133056,-113.653333
+26511,Utah,Utah,Santaquin,39.980356,-111.793819
+26512,Utah,Utah,"Saratoga Springs",40.3486,-111.9132
+26513,Utah,Millard,Scipio,39.245,-112.103333
+26514,Utah,Sevier,Sevier,38.590709,-112.392126
+26515,Utah,Sevier,Sigurd,38.840556,-111.966944
+26516,Utah,Cache,Smithfield,41.840328,-111.852813
+26517,Utah,"Box Elder",Snowville,41.840321,-112.353391
+26518,Utah,"Salt Lake","South Jordan",40.521944,-111.938333
+26519,Utah,Utah,"Spanish Fork",40.10991,-111.646246
+26520,Utah,Sanpete,"Spring City",39.4825,-111.495278
+26521,Utah,Washington,Springdale,37.299722,-113.049722
+26522,Utah,Utah,Springville,40.162528,-111.598664
+26523,Utah,Sanpete,Sterling,39.193611,-111.691667
+26524,Utah,Tooele,Stockton,40.350451,-112.425214
+26525,Utah,Iron,Summit,37.803397,-112.913407
+26526,Utah,Carbon,Sunnyside,39.551389,-110.387222
+26527,Utah,Davis,Syracuse,41.086423,-112.0451
+26528,Utah,Duchesne,Tabiona,40.382691,-110.702108
+26529,Utah,Duchesne,Talmage,40.174569,-110.396529
+26530,Utah,Wayne,Teasdale,38.285334,-111.43346
+26531,Utah,Grand,Thompson,38.988065,-109.794482
+26532,Utah,Tooele,Tooele,40.545445,-112.300214
+26533,Utah,Washington,Toquerville,37.253333,-113.283889
+26534,Utah,Wayne,Torrey,38.334993,-111.547439
+26535,Utah,"Box Elder",Tremonton,41.701564,-112.181293
+26536,Utah,Cache,Trenton,41.910453,-111.934033
+26537,Utah,Uintah,Tridell,40.443593,-109.835906
+26538,Utah,Garfield,Tropic,37.625278,-112.081389
+26539,Utah,Uintah,Vernal,40.440613,-109.546883
+26540,Utah,Tooele,Vernon,40.082609,-112.425961
+26541,Utah,Washington,Veyo,37.35896,-113.666758
+26542,Utah,Washington,Virgin,37.188889,-113
+26543,Utah,Sanpete,Wales,39.486944,-111.634444
+26544,Utah,Wasatch,Wallsburg,40.365697,-111.464934
+26545,Utah,Washington,Washington,37.136379,-113.505043
+26546,Utah,Carbon,Wellington,39.537257,-110.736954
+26547,Utah,Cache,Wellsville,41.634302,-111.931676
+26548,Utah,Tooele,Wendover,40.597396,-113.993573
+26549,Utah,"Salt Lake","West Jordan",40.625429,-111.967662
+26550,Utah,Uintah,Whiterocks,40.452771,-109.917244
+26551,Utah,"Box Elder",Willard,41.398944,-112.031653
+26552,Utah,Rich,Woodruff,41.488783,-111.186848
+26553,Utah,Davis,"Woods Cross",40.887447,-111.902712
